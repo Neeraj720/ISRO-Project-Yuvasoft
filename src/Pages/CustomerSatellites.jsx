@@ -21,6 +21,8 @@ function CustomerSatellites() {
     (currentPage - 1) * itemPerPage, currentPage * itemPerPage
   );
 
+  console.log(currentItems)
+
 
 
   return (
